@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Bengaluru",
+        "image": "https://lp-cms-production.imgix.net/2019-06/9483508eeee2b78a7356a15ed9c337a1-bengaluru-bangalore.jpg"
+    },
+    {
+        "name": "Mumbai",
+        "image": "https://www.holidaymonk.com/wp-content/uploads/2022/04/Gateway-Of-India-MUMBAI.jpg"
+    },
+    {
+        "name" : "New Delhi",
+        "image": "https://jupiter.money/blog/wp-content/uploads/2022/08/135.-Delhi.jpg"
+    },
+    {
+        "name": "Chennai",
+        "image": "https://www.agoda.com/wp-content/uploads/2024/03/Chennai-India-1049x700.jpg"
+    },
+    {
+        "name": "Kolkata",
+        "image": "https://cdn.britannica.com/75/121075-050-CBF79FB6/Victoria-Statue-front-Memorial-Hall-Kolkata-West.jpg"
+    },
+    {
+        "name": "Hyderabad",
+        "image": "https://cityfurnish.com/blog/wp-content/uploads/2023/07/charminar-getty-min-1024x768.jpeg"
+    }
+]

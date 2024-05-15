@@ -1,0 +1,32 @@
+Version v0.0.1
+
+Customization:
+1. Styling on search bar
+2. Scrollable forecast cards
+3. Changed alignment of weather info
+4. Removed lightgrey background of weather forecast
+
+Added:
+1. Famous cities buttons
+2. Added background to weather stats
+
+--------------------------------------------------------------------------------------------------------------------------------
+Version v0.0.3
+
+Customization:
+1. Clickable card
+2. Minor UI changes
+
+Added:
+1. Weather stats for each day by clicking on card
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+Version v0.0.4
+
+Customization:
+1. UI fixes
+
+Added:
+1. 404 page Added
+2. Home button Added
